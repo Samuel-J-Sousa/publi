@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(to left, rgb(206, 93, 216), rgba(22, 135, 201, 0.781));
+    margin: 255px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.salve{
+    align-items: center;
+    
+}
+
